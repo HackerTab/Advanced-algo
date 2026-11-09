@@ -112,4 +112,7 @@ The brute-force approach generates all possible subsets of tasks, leading to exp
 
 3-The memory trade offs on the greedy are minimal compared to the exponential space complexity of the brute-force approach.
 
+
+4- I choose greedy because it is more efficient, scalable, and easier to maintain. It provides optimal solutions for the task scheduling problem in little time, while the brute force approach could be used for small inputs or for educational purposes to understand the problem better.
+
 */
